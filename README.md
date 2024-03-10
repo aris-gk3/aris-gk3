@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my thesis on exploring HLS design of CNN Inference on FPGAs.
+- 🔭 I’m currently working on my thesis about High-Level Synthesis design of CNN Inference implemented on FPGAs.
 - 🌱 My topics of interest are High-Level Synthesis, Register-Transfer Level Design, Hardware Architecture, Compilers, Operating Systems etc.
 
 <!--
